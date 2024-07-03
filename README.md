@@ -7,5 +7,6 @@
 * EmbedRW
 * BloomWalk
 * CuckooWalk
+* CoarseRW
 * Ubiquicity (Quantum RW)
   
