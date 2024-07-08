@@ -2,11 +2,16 @@
 
 ### Table of Contents
 
+`TODO`
+
 ## Algorithms
 
 * EmbedRW - `done`
 * BloomWalk - `done`
 * CuckooWalk - `done`
 * CoarseRW - `in progress`
-* Ubiquicity (QuantumRW) - `in progress`
-  
+* QuantumRW - `in progress`
+
+## Project Architecture
+
+`TODO`
