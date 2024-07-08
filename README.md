@@ -8,5 +8,5 @@
 * BloomWalk
 * CuckooWalk
 * CoarseRW
-* Ubiquicity (Quantum RW)
+* Ubiquicity (QuantumRW) - `in progress`
   
