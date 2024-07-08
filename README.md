@@ -4,9 +4,9 @@
 
 ## Algorithms
 
-* EmbedRW
-* BloomWalk
-* CuckooWalk
-* CoarseRW
+* EmbedRW - `done`
+* BloomWalk - `done`
+* CuckooWalk - `done`
+* CoarseRW - `in progress`
 * Ubiquicity (QuantumRW) - `in progress`
   
